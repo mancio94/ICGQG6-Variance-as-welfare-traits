@@ -3,6 +3,7 @@ require(foreign)
 require(tidyverse)
 library(doBy)#00000000000000000000000
 
+# verifico la seconda modifica se va bene
 setwd("/Users/enrico/Desktop/valdovar")
 #------------------- DATI CHE MI SERVONO ----------------------#
 lattazioni2001_2010.xlsx  ANA0719.DBF 
